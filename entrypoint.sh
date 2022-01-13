@@ -1,4 +1,4 @@
-cd /cpuminer
+
 
     git clone https://github.com/turtlecoin/violetminer
   
